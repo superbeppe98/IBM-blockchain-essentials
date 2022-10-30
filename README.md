@@ -18,7 +18,7 @@
 <br>
 
 ## Grading Scheme
-- Graded Quiz(50%, no time limit) + Final Exam(50%, 1-hour time limit)
+- Final Exam(100%, 1-hour time limit)
 <br>
 
 ## Badge
