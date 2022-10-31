@@ -22,4 +22,4 @@
 <br>
 
 ## Badge
-
+![ibm-blockchain-essentials-v2](https://user-images.githubusercontent.com/29455975/198993147-31a5d75e-deb3-4889-82f6-2251d95a2f4c.png)
